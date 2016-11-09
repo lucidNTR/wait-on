@@ -28,11 +28,11 @@
     "temp": "^0.8.3"
   },
   "dependencies": {
-    "core-js": "^1.0.0",
+    "core-js": "6.10.4",
     "joi": "^6.10.1",
     "minimist": "^1.1.1",
-    "request": "^2.60.0",
-    "rx": "^2.5.3"
+    "request": "2.78.1",
+    "rx": "4.1.0"
   },
   "keywords": [
     "wait",
